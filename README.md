@@ -34,3 +34,6 @@ https://towardsdatascience.com/a-complete-guide-to-ai-accelerators-for-deep-lear
 https://towardsdatascience.com/a-quick-guide-to-using-spot-instances-with-amazon-sagemaker-b9cfb3a44a68
 
 https://huggingface.co/blog/accelerate-transformers-with-inferentia2
+
+https://perspectives.mvdirona.com/2018/11/aws-inferentia-machine-learning-processor/
+
