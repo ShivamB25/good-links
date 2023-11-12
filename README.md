@@ -26,3 +26,11 @@ The article outlines several practices that teams can implement to enhance the s
 
 ## :link: Source
 [How to secure CI/CD Pipelines with DevSecOps?](https://medium.com/@bijit211987/devsecops-approach-with-terraform-and-ci-cd-pipelines-f556c2d5b40d)
+
+
+! pending
+https://towardsdatascience.com/a-complete-guide-to-ai-accelerators-for-deep-learning-inference-gpus-aws-inferentia-and-amazon-7a5d6804ef1c
+
+https://towardsdatascience.com/a-quick-guide-to-using-spot-instances-with-amazon-sagemaker-b9cfb3a44a68
+
+https://huggingface.co/blog/accelerate-transformers-with-inferentia2
