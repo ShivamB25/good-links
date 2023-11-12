@@ -37,3 +37,4 @@ https://huggingface.co/blog/accelerate-transformers-with-inferentia2
 
 https://perspectives.mvdirona.com/2018/11/aws-inferentia-machine-learning-processor/
 
+https://towardsdatascience.com/how-docker-runs-machine-learning-on-nvidia-gpus-aws-inferentia-and-other-hardware-ai-accelerators-e076c6eb7802
